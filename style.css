@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Roboto:wght@500&display=swap');
+
+* {
+    font-family: 'Caveat', cursive;
+    box-sizing: border-box;
+}
+
+.image1 {
+    margin-left: 50px;
+}
+
+.scoreTimer {
+    margin-left: 100px;
+    box-sizing: content-box;
+}
+
+#timerbar {
+    width: 20vh;
+    height: 50px;
+    font-size: x-large;
+
+}
+
+.navbar-brand {
+    margin-left: 200px;
+    font-family: Roboto, sans-serif;
+    font-weight: bolder;
+
+}
+
+#images {
+    margin-left: 75px;
+    border: none;
+    background: none;
+}
+
+.container-md {
+    margin-top: 10vh;
+    border: 3px solid black;
+   
+}
+
+#number {
+    width: 20vh;
+    height: 20vh;
+    border: none;
+}
+
+.box {
+    font-size: 100px;
+    font-family: roboto, sans-serif;
+
+}
+
+.box span {
+    font-size: 100px;
+    font-family: roboto, sans-serif;
+
+}
+
+#navbar {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+    font-size: 30px;
+    font-family: roboto, sans-serif;
+}
+
+nav {
+    box-sizing: content-box;
+}
+.players{
+    font-size: 20px;
+    margin-right: 50px;
+}
